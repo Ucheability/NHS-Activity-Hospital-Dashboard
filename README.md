@@ -18,12 +18,32 @@ The dashboard was designed to answer the following key business and operational 
 - Where are potential operational pressures or inefficiencies within hospital services?
 
 ## 3. Data Source
+- **Source:** The analysis is based on publicly available NHS Hospital Episode Statistics (HES) data/ NHS Digital portal for the 2024–25 financial year. The dataset contains aggregated information on hospital activity across England, including admissions, finished consultant episodes (FCEs), bed days, day case activity, and specialty-level breakdowns.
+- **Governance Note:** To preserve data integrity while maintaining patient confidentiality, suppressed values within the HES dataset were imputed using a conservative proxy approach to enable consistent aggregation at national and regional levels.
 
 ## 4. Key KPIs
+The dashboard focuses on the following key performance indicators (KPIs):
+
+- **Total Admissions** (Finished Admission Episodes – FAE)
+- **Day Case Activity**  (Finished Consultant Episodes – FCE)
+- **Total No of NHS Porviders**
+- **Average Length of Stay (ALOS)**
+- **Day Case Rate (%)**
 
 ## 5. Dashboard Design
 
+The dashboard was designed in Excel with a clear, user-focused layout to support quick interpretation and exploration of hospital activity data.
+
+**Key design features include:**
+- High-level KPI cards summarising admissions, bed days, and length of stay
+- Comparative visualisations showing inpatient activity versus day case activity
+- Specialty-level charts highlighting areas of highest demand
+- Provider-level analysis to support benchmarking and performance comparison
+- Interactive slicers enabling users to filter results by provider and specialty
+
+
 ## 6. Analysis & Insights
+
 
 ## 7. Tools & Techniques
 
