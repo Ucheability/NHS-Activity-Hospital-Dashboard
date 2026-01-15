@@ -44,6 +44,34 @@ The dashboard was designed in Excel with a clear, user-focused layout to support
 
 ## 6. Analysis & Insights
 
+The dashboard highlights several key insights into NHS hospital activity and operational pressure during the 2024–25 period:
+
+- Total hospital admissions reached approximately **18.5 million (FAE)**, indicating sustained national demand on secondary care services.
+
+- **Day case activity accounted for around 32% of total admissions**, while inpatient admissions represented **68%**, demonstrating continued reliance on overnight care and associated bed capacity pressures.
+
+- Average length of stay across providers was **2.62 days**, suggesting moderate bed turnover but with potential variation driven by specialty mix and clinical complexity.
+
+- A small number of clinical specialties, including **General Internal Medicine and General Surgery**, accounted for the highest volumes of hospital activity, highlighting key pressure points within the system.
+
+- Hospital activity was concentrated among a limited number of large providers, with **teaching and major acute trusts** recording the highest admission volumes, indicating opportunities for benchmarking and performance comparison.
+
+Overall, the analysis suggests that while day case services play a significant role in managing demand, inpatient care remains the dominant driver of bed utilisation and operational pressure across the NHS.
+
+### Insights by Visual
+
+**KPI Summary Cards**  
+The headline KPIs provide a high-level view of national hospital demand, highlighting high admission volumes, sustained inpatient reliance, and moderate average length of stay, all of which point to continued operational pressure on bed capacity.
+
+**Top 10 Specialties by Volume**  
+Hospital activity is heavily concentrated within a small number of specialties, particularly General Internal Medicine and General Surgery. This concentration suggests that targeted interventions in these specialties could yield significant system-wide impact.
+
+**Top 10 Providers by Admission**  
+Admissions are dominated by large acute and teaching trusts, indicating variation in service scale and demand. This presents opportunities for benchmarking performance and identifying best practices across providers.
+
+**Inpatient Admission vs Day Case Activity**  
+The inpatient-to-day case split shows a clear predominance of inpatient care, reinforcing the importance of expanding day case pathways where clinically appropriate to relieve bed pressure.
+
 
 ## 7. Tools & Techniques
 
