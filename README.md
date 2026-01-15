@@ -75,7 +75,29 @@ The inpatient-to-day case split shows a clear predominance of inpatient care, re
 
 ## 7. Tools & Techniques
 
+The project applied a structured data cleansing and transformation workflow in Microsoft Excel to ensure accuracy, consistency, and statistical validity of all reported metrics.
+
+- **Microsoft Excel**: Used for data preparation, transformation, aggregation, and dashboard development.
+- **Data Cleansing & Preparation**:
+  - Applied trimming functions to remove whitespace, ensuring accurate lookups and joins.
+  - Performed de-duplication to remove redundant records and maintain the integrity of patient activity counts.
+  - Converted data types systematically from text to numeric formats to support reliable aggregation and KPI calculation.
+- **Data Transformation & Logic**:
+  - Implemented logical IF statements to handle suppressed values, enabling numerical analysis while preserving data consistency.
+  - Standardised measures to ensure consistent KPI definitions across the dashboard.
+- **Data Integration**:
+  - Used VLOOKUP to map NHS specialty codes to descriptive specialty names using official NHS reference tables.
+- **Dashboard Interactivity**:
+  - Built interactive slicers and dynamic charts to support exploratory analysis by provider and specialty.
+
 ## 8. Limitations
+
+This analysis is subject to several limitations:
+
+- The dataset is aggregated at national and provider level, limiting the ability to perform patient-level or pathway-specific analysis.
+- Suppressed values within the source data required estimation logic, which may introduce minor approximation in aggregated metrics.
+- The dashboard focuses on activity and utilisation metrics and does not incorporate clinical outcome measures.
+- Analysis is limited to the 2024–25 period and does not capture longer-term trends or seasonal variation.
 
 ## 9. Recommendations
 
