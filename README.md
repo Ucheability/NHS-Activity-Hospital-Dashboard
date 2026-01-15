@@ -100,4 +100,11 @@ This analysis is subject to several limitations:
 - Analysis is limited to the 2024–25 period and does not capture longer-term trends or seasonal variation.
 
 ## 9. Recommendations
+Based on the analysis, the following recommendations could support improved operational planning and performance monitoring:
+
+- Expand day case pathways where clinically appropriate to reduce pressure on inpatient bed capacity.
+- Use specialty-level activity data to prioritise service redesign and targeted efficiency initiatives.
+- Apply provider-level benchmarking to identify best practices and reduce unwarranted variation in hospital activity.
+- Monitor average length of stay alongside admission volumes to improve patient flow and discharge planning.
+- Extend the analysis across multiple financial years to identify trends, seasonality, and long-term demand patterns.
 
