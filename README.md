@@ -41,6 +41,8 @@ The dashboard was designed in Excel with a clear, user-focused layout to support
 - Provider-level analysis to support benchmarking and performance comparison
 - Interactive slicers enabling users to filter results by provider and specialty
 
+![NHS Hospital Activity Dashboard](dashboard_nhsactivity_24_25.jpg)
+
 
 ## 6. Analysis & Insights
 
