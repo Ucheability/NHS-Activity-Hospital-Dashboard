@@ -40,8 +40,18 @@ The dashboard was designed in Excel with a clear, user-focused layout to support
 - Specialty-level charts highlighting areas of highest demand
 - Provider-level analysis to support benchmarking and performance comparison
 - Interactive slicers enabling users to filter results by provider and specialty
+  
+# National Hospital Activity & Performance Overview | 2024–25
 
-![NHS Hospital Activity Dashboard](dashboard_nhsactivity_24_25.jpg)
+## 📊 Dashboard Preview
+![National Hospital Activity & Performance Dashboard](dashboard_nhsactivity_24_25.jpg)
+*Figure 1: Interactive NHS Performance Dashboard featuring KPI cards and admission volume charts.*
+
+
+## 1. Project Overview
+This project provides an analytical overview of NHS hospital activity and performance for the 2024–25 financial year...
+
+
 
 
 ## 6. Analysis & Insights
