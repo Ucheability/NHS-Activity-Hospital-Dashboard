@@ -48,11 +48,6 @@ The dashboard was designed in Excel with a clear, user-focused layout to support
 *Figure 1: Interactive NHS Performance Dashboard featuring KPI cards and admission volume charts.*
 
 
-## 1. Project Overview
-This project provides an analytical overview of NHS hospital activity and performance for the 2024–25 financial year...
-
-
-
 
 ## 6. Analysis & Insights
 
