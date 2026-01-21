@@ -84,18 +84,14 @@ The inpatient-to-day case split shows a clear predominance of inpatient care, re
 
 The project applied a structured data cleansing and transformation workflow in Microsoft Excel to ensure accuracy, consistency, and statistical validity of all reported metrics.
 
-- **Microsoft Excel**: Used for data preparation, transformation, aggregation, and dashboard development.
-- **Data Cleansing & Preparation**:
-  - Applied trimming functions to remove whitespace, ensuring accurate lookups and joins.
-  - Performed de-duplication to remove redundant records and maintain the integrity of patient activity counts.
-  - Converted data types systematically from text to numeric formats to support reliable aggregation and KPI calculation.
-- **Data Transformation & Logic**:
-  - Implemented logical IF statements to handle suppressed values, enabling numerical analysis while preserving data consistency.
-  - Standardised measures to ensure consistent KPI definitions across the dashboard.
-- **Data Integration**:
-  - Used VLOOKUP to map NHS specialty codes to descriptive specialty names using official NHS reference tables.
-- **Dashboard Interactivity**:
-  - Built interactive slicers and dynamic charts to support exploratory analysis by provider and specialty.
+## Tools & Technologies
+
+- **Microsoft Excel**: Data preparation, transformation, aggregation, KPI development, and interactive dashboard design using PivotTables, slicers, and formulas.
+- **Data Cleansing & Transformation**: Trimming whitespace, de-duplication, data type conversion, and handling suppressed values using logical IF statements to ensure statistical validity.
+- **Data Integration**: Mapping NHS specialty codes to descriptive names using official NHS reference tables via VLOOKUP.
+- **KPI Development**: Standardised calculation of admissions (FCE & FAE), day case activity, bed days, average length of stay (ALOS), and day case rate.
+- **Dashboard Interactivity & Storytelling**: Dynamic charts and slicers enabling exploratory analysis by provider and specialty to support operational decision-making.
+- **NHS Data Standards Awareness**: Working with aggregated and anonymised NHS Hospital Episode Statistics (HES) data in line with reporting conventions.
 
 ## 8. Limitations
 
